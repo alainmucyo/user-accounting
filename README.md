@@ -19,14 +19,14 @@ The project contains two folders(services) both built with Nestjs. Make sure you
 * Redis
 
 ## Features
-Sign in
-Sign up
-2-factor authentication with SMS
-Reset password
-Update profile info
-Update account info
-Get a user profile/account
-Verify user account
+- Sign in
+- Sign up
+- 2-factor authentication with SMS
+- Reset password
+- Update profile info
+- Update account info
+- Get a user profile/account
+- Verify user account
 
 ## System design
 
