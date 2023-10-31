@@ -18,6 +18,21 @@ The project contains two folders(services) both built with Nestjs. Make sure you
 * MySQL
 * Redis
 
+## Features
+Sign in
+Sign up
+2-factor authentication with SMS
+Reset password
+Update profile info
+Update account info
+Get a user profile/account
+Verify user account
+
+## System design
+
+![System design](https://github.com/alainmucyo/user-accounting/assets/38314454/6c4cf413-05cf-420d-a701-03ba29849747)
+
+
 ## Installing
 
 * Install [Nodejs](https://nodejs.org/en/) if you don't have it installed.
